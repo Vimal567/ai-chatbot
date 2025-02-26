@@ -1,6 +1,6 @@
 {
   "name": "@vimal_567/angular-ai-chatbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/core": "17.2.0 || 18.1.0 || 19.1.7",
     "@angular/common": "17.2.0 || 18.1.0 || 19.1.7"
